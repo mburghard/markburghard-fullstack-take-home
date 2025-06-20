@@ -86,63 +86,19 @@ The site also includes the following features:
    ```
 
 3. **Start both frontend and backend servers**
-   ```bash
-   npm run dev:full
-   ```
 
 ### Accessing the Application
 
 - **Frontend**: http://localhost:3000
 - **Backend API**: http://localhost:8000
 
-### Available Scripts
-
-- `npm run dev` - Start frontend development server
-- `npm run build` - Build frontend for production
-- `npm run start` - Start production frontend server
-- `npm run backend` - Start Python backend server
-- `npm run dev:full` - Start both frontend and backend concurrently
-- `npm run setup` - Install all dependencies
-
 ## Potential Areas for Improvement
 
 ### Technical Improvements
 
-- **Database Integration** - Replace file system storage with a proper database (PostgreSQL, MongoDB)
 - **Authentication & Authorization** - User accounts and portfolio ownership
 - **Cloud Storage** - Integrate with AWS S3 or similar for scalable media storage
 - **Performance Optimization** - Image compression, lazy loading, and CDN integration
 - **Testing Coverage** - Comprehensive unit and integration tests
 - **Error Handling** - More robust error boundaries and user feedback
-- **SEO Optimization** - Meta tags, structured data, and sitemap generation
-
-### User Experience Enhancements
-
-- **Templates** - Pre-built portfolio templates for quick setup
-- **Themes** - Multiple design themes beyond neumorphic
-- **Collaboration** - Multi-user editing and sharing capabilities
-- **Analytics** - Portfolio view analytics and visitor insights
-- **Export Options** - PDF export, static site generation
-- **Undo/Redo** - History management for editing actions
-- **Keyboard Shortcuts** - Power user productivity features
-
-### Design Refinements
-
-- **Animation System** - Smooth transitions and micro-interactions
-- **Accessibility** - WCAG compliance and screen reader support
-- **Mobile Optimization** - Enhanced mobile editing experience
-- **Component Library** - Reusable design system components
-- **Dark Mode** - Alternative color scheme support
-
-### Scalability & Architecture
-
-- **Microservices** - Split backend into specialized services
-- **Caching Strategy** - Redis for session and data caching
-- **API Rate Limiting** - Protect against abuse
-- **Content Delivery** - Global CDN for fast media delivery
-- **Monitoring** - Application performance monitoring
-- **Docker Containerization** - Consistent deployment environments
-
----
-
-**Note**: This is a proof-of-concept application built for demonstration purposes. While functional, it would benefit from the improvements listed above before being production-ready.
+- **Bug Fixes** - Correct the issues with the UI/Context Menus
