@@ -34,16 +34,16 @@ You'll see that the required features from the initial prompt are fulfilled:
 
 The site also includes the following features:
 
-- 🔧 **Context Menus** - Right-click context menus for quick element editing and manipulation
-- 🎯 **Drag & Drop Interface** - Intuitive drag-and-drop for reordering elements and sections
-- ⚡ **Real-time Editing** - Live updates as you edit text, resize elements, and modify properties
-- 🖼️ **Advanced Image Management** - Grid-based image containers with flexible layouts
-- 🎥 **Video Support** - Embedded video playback with customizable player controls
-- 📐 **Flexible Spacing Controls** - Precise margin and padding controls for all elements
-- 🔄 **Auto-save Functionality** - Automatic portfolio loading and saving
-- 📋 **Element Toolbar** - Floating action button with quick access to add new elements
-- 🎨 **Typography Controls** - Font family, size, weight, and color customization
-- 📱 **Touch-friendly Interface** - Optimized for touch interactions on tablets and mobile
+- **Context Menus** - Right-click context menus for quick element editing and manipulation
+- **Drag & Drop Interface** - Intuitive drag-and-drop for reordering elements and sections
+- **Real-time Editing** - Live updates as you edit text, resize elements, and modify properties
+- **Advanced Image Management** - Grid-based image containers with flexible layouts
+- **Video Support** - Embedded video playback with customizable player controls
+- **Flexible Spacing Controls** - Precise margin and padding controls for all elements
+- **Auto-save Functionality** - Automatic portfolio loading and saving
+- **Element Toolbar** - Floating action button with quick access to add new elements
+- **Typography Controls** - Font family, size, weight, and color customization
+- **Touch-friendly Interface** - Optimized for touch interactions on tablets and mobile
 
 ## Tech Stack
 
@@ -52,7 +52,7 @@ The site also includes the following features:
 - **Next.js 15** - React framework with App Router
 - **React 19** - Latest React with concurrent features
 - **TypeScript** - Type-safe development
-- **Tailwind CSS** - Utility-first CSS framework
+- **Tailwind CSS 4** - Utility-first CSS framework
 - **@dnd-kit** - Modern drag and drop library
 - **FontAwesome** - Icon library for UI elements
 
@@ -63,12 +63,6 @@ The site also includes the following features:
 - **RESTful API** - Clean API design for portfolio operations
 
 ## Usage/Running The App
-
-### Prerequisites
-
-- Node.js 18+
-- Python 3.8+
-- npm or yarn
 
 ### Quick Setup
 
