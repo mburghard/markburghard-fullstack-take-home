@@ -81,6 +81,10 @@ The site also includes the following features:
 
 3. **Start both frontend and backend servers**
 
+   ```bash
+   npm run dev:full
+   ```
+
 ### Accessing the Application
 
 - **Frontend**: http://localhost:3000
